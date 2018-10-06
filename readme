@@ -1,0 +1,4 @@
+1 just make and make install 
+2 place instrument.c to  your project source file and compile link with  your target procedure.
+3 test.c is used to test pvtrace.
+4 for more details : https://www.ibm.com/developerworks/cn/linux/l-graphvis/
